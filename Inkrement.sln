@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Inkrement", "Inkrement\Inkrement.vbproj", "{C538D46E-9347-4F3A-B2CB-E2C9D5EF50EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C538D46E-9347-4F3A-B2CB-E2C9D5EF50EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C538D46E-9347-4F3A-B2CB-E2C9D5EF50EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C538D46E-9347-4F3A-B2CB-E2C9D5EF50EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C538D46E-9347-4F3A-B2CB-E2C9D5EF50EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A7885D-5FCD-4301-BEC3-370711C587FD}
+	EndGlobalSection
+EndGlobal
